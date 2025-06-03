@@ -4,4 +4,4 @@
 3.	Actions
 4.	Description Category 
 Также в разделе Seller API вам может понадобиться clientID
-![clientID](../../media/img/ozon/clientID/clientID.png)
+![clientID](../../media/img/ozon/clientID/clientID.jpg)
